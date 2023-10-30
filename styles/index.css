@@ -1,0 +1,103 @@
+﻿body {
+    font-family: Calibri;
+}
+
+.creditos {
+    width: 400px;
+    height: 460px;
+    margin: auto;
+    color: black;
+    font-size: 0.8em;
+}
+
+section{
+    width: 400px;
+    height: 460px;
+    margin: auto;
+    padding: 20px 50px;
+    margin-top: 10vh;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 3px 2px 2px 3px #203AA2;
+}
+
+.titulo {
+    color: #203AA2;
+    line-height: 10px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+textarea:focus, input:focus {
+    outline: none;
+}
+
+form a, label {
+    font-size: .8rem;
+}
+
+    form a:hover {
+        color: #08558B;
+    }
+
+
+form {
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+#Label2, #Label3, input {
+    display: block;
+    width: 100%;
+    text-align: left;
+}
+
+#Label2, #Label3 {
+    color: #203AA2;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+input {
+    color: #000000;
+    padding: 10px;
+    font-size: 1rem;
+    margin-bottom: 20px;
+    border-style: solid;
+    border-bottom-width: 2px;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-left-width: 0;
+}
+
+    input:focus {
+        transition: 0.5s;
+        border-bottom: 7px solid #203AA2;
+    }
+
+#forgot-pass {
+    color: black;
+    text-align: right;
+    display: block;
+}
+
+input[type="submit"] {
+    text-align: center;
+    text-transform: none;
+    font-weight: bold;
+    border: none;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 10px;
+    color: #FFFFFF;
+    background-color: #000000;
+    cursor: pointer;
+}
+
+    input[type="submit"]:hover {
+        background-color: #203AA2;
+        transition: .5s;
+    }

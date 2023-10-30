@@ -1,0 +1,43 @@
+﻿body {
+    font-family: Calibri;
+}
+
+section {
+    width: 800px;
+    height: 490px;
+    margin: auto;
+    padding: 20px 50px;
+    margin-top: 10vh;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 3px 2px 2px 3px #203AA2;
+    overflow-y: scroll;
+}
+
+#Label1 {
+    line-height: 20px;
+    color: #203AA2;
+}
+
+input[type="submit"] {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: none;
+    width: 140px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 30px;
+    color: #FFFFFF;
+    background-color: #000000;
+    cursor: pointer;
+}
+
+    input[type="submit"]:hover {
+        background-color: #1B223C;
+        transition: .5s;
+    }
+
+a {
+    text-decoration: none;
+}
