@@ -1,0 +1,403 @@
+C:\Users\User\source\repos\LojaOnline\bin\LojaOnline.dll.config
+C:\Users\User\source\repos\LojaOnline\bin\LojaOnline.dll
+C:\Users\User\source\repos\LojaOnline\bin\LojaOnline.pdb
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\csc.exe
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\csc.exe.config
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\csc.rsp
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\csi.exe
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\csi.exe.config
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\csi.rsp
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\System.AppContext.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\System.Console.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\System.Net.Http.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\vbc.exe
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\vbc.exe.config
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\vbc.rsp
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\source\repos\LojaOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\source\repos\LojaOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\source\repos\LojaOnline\bin\MySql.Data.dll
+C:\Users\User\source\repos\LojaOnline\bin\MySql.Web.dll
+C:\Users\User\source\repos\LojaOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\source\repos\LojaOnline\obj\Debug\LojaOnline.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LojaOnline\obj\Debug\LojaOnline.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LojaOnline\obj\Debug\LojaOnline.dll
+C:\Users\User\source\repos\LojaOnline\obj\Debug\LojaOnline.pdb
+C:\Users\mfpledon\Downloads\LojaOnline\bin\LojaOnline.dll.config
+C:\Users\mfpledon\Downloads\LojaOnline\bin\LojaOnline.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\LojaOnline.pdb
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\csc.exe
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\csc.exe.config
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\csc.rsp
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\csi.exe
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\csi.exe.config
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\csi.rsp
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\System.AppContext.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\System.Console.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\System.Net.Http.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\vbc.exe
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\vbc.exe.config
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\vbc.rsp
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\mfpledon\Downloads\LojaOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mfpledon\Downloads\LojaOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\MySql.Data.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\MySql.Web.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\Google.Protobuf.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\Zstandard.Net.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\BouncyCastle.Crypto.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\Ubiety.Dns.Core.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\System.Memory.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\System.Buffers.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\K4os.Compression.LZ4.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\K4os.Hash.xxHash.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\System.Numerics.Vectors.dll
+C:\Users\mfpledon\Downloads\LojaOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mfpledon\Downloads\LojaOnline\obj\Debug\LojaOnline.csproj.AssemblyReference.cache
+C:\Users\mfpledon\Downloads\LojaOnline\obj\Debug\LojaOnline.csproj.CoreCompileInputs.cache
+C:\Users\mfpledon\Downloads\LojaOnline\obj\Debug\LojaOnline.dll
+C:\Users\mfpledon\Downloads\LojaOnline\obj\Debug\LojaOnline.pdb
+C:\Users\mfpledon\Desktop\LojaOnline\bin\LojaOnline.dll.config
+C:\Users\mfpledon\Desktop\LojaOnline\bin\LojaOnline.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\LojaOnline.pdb
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\csc.exe
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\csc.exe.config
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\csc.rsp
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\csi.exe
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\csi.exe.config
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\csi.rsp
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\System.AppContext.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\System.Console.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\System.Net.Http.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\vbc.exe
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\vbc.exe.config
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\vbc.rsp
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\mfpledon\Desktop\LojaOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mfpledon\Desktop\LojaOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\MySql.Data.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\MySql.Web.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\Google.Protobuf.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\Zstandard.Net.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\BouncyCastle.Crypto.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\Ubiety.Dns.Core.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\System.Memory.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\System.Buffers.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\K4os.Compression.LZ4.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\K4os.Hash.xxHash.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\System.Numerics.Vectors.dll
+C:\Users\mfpledon\Desktop\LojaOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mfpledon\Desktop\LojaOnline\obj\Debug\LojaOnline.csproj.AssemblyReference.cache
+C:\Users\mfpledon\Desktop\LojaOnline\obj\Debug\LojaOnline.csproj.CoreCompileInputs.cache
+C:\Users\mfpledon\Desktop\LojaOnline\obj\Debug\LojaOnline.dll
+C:\Users\mfpledon\Desktop\LojaOnline\obj\Debug\LojaOnline.pdb
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\LojaOnline.dll.config
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\LojaOnline.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\LojaOnline.pdb
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\csc.exe
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\csc.exe.config
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\csc.rsp
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\csi.exe
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\csi.exe.config
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\csi.rsp
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\System.AppContext.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\System.Console.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\System.Net.Http.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\vbc.exe
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\vbc.exe.config
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\vbc.rsp
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\MySql.Data.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\MySql.Web.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\Google.Protobuf.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\Zstandard.Net.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\BouncyCastle.Crypto.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\Ubiety.Dns.Core.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\System.Memory.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\System.Buffers.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\K4os.Compression.LZ4.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\K4os.Hash.xxHash.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\System.Numerics.Vectors.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\obj\Debug\LojaOnline.csproj.AssemblyReference.cache
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\obj\Debug\LojaOnline.csproj.CoreCompileInputs.cache
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\obj\Debug\LojaOnline.dll
+C:\Users\mfpledon\Desktop\Aula 10 - TE - 2021 - Web apps que geran JSON e XML\LojaOnline\obj\Debug\LojaOnline.pdb
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\LojaOnline.dll.config
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\LojaOnline.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\LojaOnline.pdb
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\csc.exe
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\csc.exe.config
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\csc.rsp
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\csi.exe
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\csi.exe.config
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\csi.rsp
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.AppContext.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Console.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Net.Http.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\vbc.exe
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\vbc.exe.config
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\vbc.rsp
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\System.Memory.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\System.Buffers.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\System.Numerics.Vectors.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\obj\Debug\LojaOnline.csproj.AssemblyReference.cache
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\obj\Debug\LojaOnline.csproj.CoreCompileInputs.cache
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\obj\Debug\LojaOnline.csproj.CopyComplete
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\obj\Debug\LojaOnline.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\obj\Debug\LojaOnline.pdb
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\MySql.Data.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\MySql.Web.dll
+C:\Users\mfple\OneDrive\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\LojaOnline.dll.config
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\LojaOnline.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\LojaOnline.pdb
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\csc.exe
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\csc.exe.config
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\csc.rsp
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\csi.exe
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\csi.exe.config
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\csi.rsp
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.AppContext.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Console.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Net.Http.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\vbc.exe
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\vbc.exe.config
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\vbc.rsp
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\MySql.Data.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\MySql.Web.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\System.Memory.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\System.Numerics.Vectors.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\System.Buffers.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\obj\Debug\LojaOnline.csproj.AssemblyReference.cache
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\obj\Debug\LojaOnline.csproj.CoreCompileInputs.cache
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\obj\Debug\LojaOnline.csproj.CopyComplete
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\obj\Debug\LojaOnline.dll
+C:\Users\mfple\Escritorio\Aula 08 - TE - Web apps que geram JSON XML\LojaOnline\obj\Debug\LojaOnline.pdb
